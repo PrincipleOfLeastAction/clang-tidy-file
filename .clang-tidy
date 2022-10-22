@@ -1,0 +1,9 @@
+Checks: >
+    -*,
+    cppcoreguidelines-*,
+    readability-*,
+    bugprone-*,
+    modernize-*,
+    performance-*,
+    -readability-named-parameter,
+    -readability-identifier-length
